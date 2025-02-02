@@ -1,0 +1,10 @@
+Flask==3.1.0
+flask-cors
+scipy==1.14.1
+pandas==2.2.3
+plotly
+pyforest
+streamlit==1.41.1
+matplotlib
+seaborn
+scikit-learn
